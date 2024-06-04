@@ -9,6 +9,7 @@ export default function initMenuMobile() {
     function openMenu() {
       menuButton.classList.add("active");
       menuList.classList.add("active");
+
       outsideClick(menuList, eventos, () => {
         menuButton.classList.remove("active");
         menuList.classList.remove("active");
