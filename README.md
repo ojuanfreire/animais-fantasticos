@@ -1,6 +1,6 @@
 # ANIMAIS FANTÁSTICOS
 <p align = "center">
-  <img src = "https://github.com/ojuanfreire/projeto-bikcraft/blob/main/img/bikcraft.jpg" alt = "Bikcraft" tittle = "Bikcraft">
+  <img src = "https://github.com/ojuanfreire/animais-fantasticos/blob/main/img/pagina-inicial.png" alt = "Animais Fantasticos" tittle = "Animais Fantasticos">
 </p> 
 
 ## 📕 Sobre o Projeto
@@ -35,14 +35,14 @@
 
 ### Primeira forma
 
-Acesse o projeto pelo seguinte link: [Projeto Animais Fantásticos](https://ojuanfreire.github.io/projeto-bikcraft/)
+Acesse o projeto pelo seguinte link: [Projeto Animais Fantásticos](https://ojuanfreire.github.io/animais-fantasticos/)
 
 ### Segunda forma
 ```bash
   # Faça um clone deste repositório na sua máquina e acesse a pasta.
-  git clone https://github.com/ojuanfreire/projeto-bikcraft
+  git clone https://github.com/ojuanfreire/animais-fantasticos.git
 
-  cd projeto-bikcraft
+  cd animais-fantasticos
 ```
 -
   Após isso, utilize a ferramente Live Server para executar o projeto em um servidor local.
